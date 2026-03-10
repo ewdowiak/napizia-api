@@ -34,11 +34,11 @@ This API is based on and compatible with the
         }
         {
             "code": "it"
-            "name": "Italiano"
+            "name": "Italian"
         }
         {
-            "code": "sc"
-            "name": "Sicilianu"
+            "code": "scn"
+            "name": "Sicilian"
         }
     ]
 }
