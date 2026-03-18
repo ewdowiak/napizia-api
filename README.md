@@ -16,7 +16,7 @@ Our model runs on a small server.  Please ask for assistance if you need a large
 This API is based on and compatible with the
 [Lingva Translate API](https://github.com/TheDavidDelta/lingva-translate):
 
-+ GET `/api/v1/:source/:target/:query`
++ GET `/api/v1/:source/:target/#query`
 ```typescript
 {
     "translation": "string with requested translation"
